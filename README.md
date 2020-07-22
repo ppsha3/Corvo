@@ -1,8 +1,6 @@
 # Corvo
-"Corvo" -  A digital voice assistant which automates your web tasks and is conversational.
+"Corvo" -  My very own digital voice assistant
 
-
-The first prototype opens a random 'FRIENDS' video on youtube when the user says 'Run FRIENDS protocol' :p
 
 To Do - 
 1) Make it conversational/intelligent using Natural Language Processing
